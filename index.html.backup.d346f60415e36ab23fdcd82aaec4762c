@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta property="og:title" content="Perguruan Kristen Methodist 5" />
+    <meta property="og:image" content="http://methodist5.com/img/banner/building.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="300" />
+    <meta property="og:description" content="Sekolah Methodist 5 berdiri untuk mengabarkan injil dan melayani Tuhan Yesus melalui pendidikan yang berlandaskan pada Amsal 22:6." />
+
+
+    <link rel="icon" href="img/favicon.png" type="image/png" />
+    <title>Perguruan Kristen Methodist 5</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/themify-icons.css" />
+    <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css" />
+    <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css" />
+    <!-- main css -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <!--================ Start Header Menu Area =================-->
+    <header class="header_area">
+        <div class="main_menu">
+            <div class="search_input" id="search_input_box">
+                <div class="container">
+                    <form class="d-flex justify-content-between" method="" action="">
+                        <input type="text" class="form-control" id="search_input" placeholder="Search Here" />
+                        <button type="submit" class="btn"></button>
+                        <span class="ti-close" id="close_search" title="Close Search"></span>
+                    </form>
+                </div>
+            </div>
+
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <a class="navbar-brand" href="index.html">
+                        <img class="logo-2 resplogo" src="img/logo.png" alt="" />
+                        <img class="logo-2 resplogo-inv" src="img/logo2.png" alt="" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span> <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+                        <ul class="nav navbar-nav menu_nav ml-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Beranda</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="profil.html">Profil</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="rapor/">Rapor</a>
+                            </li>
+                            <li class="nav-item submenu dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/blog/special/ultahemas/index.html">Pengumuman</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/blog/special/covid/index.html">Kegiatan</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link" href="galeri.html">Galeri</a>
+                            </li>
+                            <li class="nav-item submenu dropdown d-none">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unit</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="courses.html">TK</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="course-details.html">SD</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="elements.html">SMP</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="elements.html">SMA</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item d-none">
+                                <a href="#" class="nav-link search" id="search">
+                                    <i class="ti-search"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!--================ End Header Menu Area =================-->
+
+    <!--================ Start Home Banner Area =================-->
+    <section class="home_banner_area">
+        <div class="banner_inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="banner_content text-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ End Home Banner Area =================-->
+    <p class="disclaimer pr-3 pr-md-0">*dalam proses pembangunan</p>
+    
+    <!--================ Start Feature Area =================-->
+    <!--<section class="feature_area section_gap_top">-->
+    <!--    <div class="container">-->
+    <!--        <div class="row">-->
+    <!--            <div class="col-lg-8 offset-lg-2 col-12">-->
+    <!--                <div class="embed-responsive embed-responsive-16by9">-->
+    <!--                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E4LMxac25KE" allowfullscreen></iframe>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</section>-->
+    <!--================ End Feature Area =================-->
+    
+    
+    <!--================ Start Registration Area =================-->
+    <!--<div class="section_gap registration_area">-->
+    <!--    <div class="container">-->
+    <!--        <div class="row align-items-center">-->
+    <!--            <div class="col-12 text-center">-->
+    <!--                <div class="row clock_sec clockdiv" id="clockdiv">-->
+    <!--                    <div class="col-lg-8 offset-lg-2 text-center">-->
+    <!--                        <h1 class="mb-3 persuade">Daftar Sekarang!</h1>-->
+    <!--                        <div>-->
+    <!--                            <p>-->
+    <!--                                Biaya pendaftaran <em class="persuade">gratis</em> dan <em class="persuade">bonus</em> baju seragam jika daftar pada:-->
+    <!--                            </p>-->
+    <!--                            <ul class="bonus">-->
+    <!--                              <li>-->
+    <!--                                <h5 class="mb-0">Tanggal 1 April - 30 April 2021</h5>-->
+    <!--                                <p>Bonus baju batik dan olahraga</p>-->
+    <!--                              </li>-->
+    <!--                            </ul>-->
+    <!--                            <ul class="bonus">-->
+    <!--                              <li>-->
+    <!--                                <h5 class="mb-0">Tanggal 1 Mei - 31 Mei 2021</h5>-->
+    <!--                                <p>Bonus baju olahraga</p>-->
+    <!--                              </li>-->
+    <!--                            </ul>-->
+    <!--                            <ul class="bonus">-->
+    <!--                              <li>-->
+    <!--                                <h5 class="mb-0">Tanggal 1 Juni - 31 Juni 2021</h5>-->
+    <!--                                <p>Bonus baju batik</p>-->
+    <!--                              </li>-->
+    <!--                            </ul>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="row clock_sec col-lg-8 offset-lg-2 clockdiv" id="clockdiv">-->
+    <!--                    <div class="col clockinner1 clockinner">-->
+    <!--                        <h1 class="days" id="days">150</h1>-->
+    <!--                        <span class="smalltext">hari</span>-->
+    <!--                    </div>-->
+    <!--                    <div class="col clockinner clockinner1">-->
+    <!--                        <h1 class="hours" id="hours">23</h1>-->
+    <!--                        <span class="smalltext">jam</span>-->
+    <!--                    </div>-->
+    <!--                    <div class="col clockinner clockinner1">-->
+    <!--                        <h1 class="minutes" id="minutes">47</h1>-->
+    <!--                        <span class="smalltext">men</span>-->
+    <!--                    </div>-->
+    <!--                    <div class="col clockinner clockinner1">-->
+    <!--                        <h1 class="seconds" id="seconds">59</h1>-->
+    <!--                        <span class="smalltext">det</span>-->
+    <!--                    </div>-->
+    <!--                    <script>-->
+    <!--                        var countDownDate = new Date("2020-07-31").getTime();-->
+
+    <!--                        var myfunc = setInterval(function() {-->
+    <!--                            var now = new Date().getTime();-->
+    <!--                            var timeleft = countDownDate - now;-->
+
+    <!--                            var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));-->
+    <!--                            var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));-->
+    <!--                            var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));-->
+    <!--                            var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);-->
+
+    <!--                            document.getElementById('days').innerText = days;-->
+    <!--                            document.getElementById('hours').innerText = hours;-->
+    <!--                            document.getElementById('minutes').innerText = minutes;-->
+    <!--                            document.getElementById('seconds').innerText = seconds;-->
+
+    <!--                            if (timeleft < 0) {-->
+    <!--                                clearInterval(myfunc);-->
+    <!--                                document.querySelectorAll('.clockinner').forEach(element => {-->
+    <!--                                    element.setAttribute('style', 'display:none;');-->
+    <!--                                })-->
+
+    <!--                            }-->
+    <!--                        }, 1000)-->
+    <!--                    </script>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--            <div class="col-lg-5 offset-lg-1 d-none">-->
+    <!--                <div class="register_form" id="onlinereg">-->
+    <!--                    <h3 class="mb-3">Pendaftaran Online</h3>-->
+    <!--                    <p>Anda kesulitan untuk datang ke sekolah untuk mendaftarkan, tetapi tidak mau kehilangan bonus dan penawaran ini?-->
+    <!--                    </p>-->
+    <!--                    <a href="https://forms.gle/tQQq4b2qwgFRJidP8" target="_blank" class="primary-btn">Pendaftaran Online</a>-->
+    <!--                    <p class="reginstr">*Anda tetap harus melengkapi dokumen-dokumen seperti yang tertulis pada bagian <a href="#syarat">syarat pendaftaran</a>.</p>-->
+    <!--                    <p class="reginstr">-->
+    <!--                        Dengan mendaftar online, anda setuju untuk mengisikan data dengan sebenar-benarnya. Pemalsuan data dapat ditindak secara hukum.-->
+    <!--                    </p>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--            <div class="container">-->
+    <!--                <div class="row clock_sec">-->
+    <!--                    <div class="col-12 botspace text-center">-->
+    <!--                        <h3 class="mb-3 mt-3 pt-3 text-white accepting">Menerima pendaftaran siswa/i baru tahun ajaran 2021/2022-->
+    <!--                        </h3>-->
+    <!--                        <h4 class="mb-3 mt-3 pt-3 text-white accepting">Menerima pendaftaran siswa/i baru tahun ajaran 2021/2022-->
+    <!--                        </h4>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="pb-3 mt-3 pt-3 pl-3">-->
+    <!--                    <div class="container col-lg-8 offset-lg-2">-->
+    <!--                        <div class="contact_info row pl-md-3">-->
+    <!--                            <div class="info_item col-12 col-md-6">-->
+    <!--                                <i class="ti-home text-white"></i>-->
+    <!--                                <h6 class="text-white">Medan, Sumatera Utara</h6>-->
+    <!--                                <p class="text-white">Jl. Karya Rakyat No. 67, Kecamatan Sei Agul, Medan</p>-->
+    <!--                            </div>-->
+    <!--                            <div class="info_item col-12 col-md-6">-->
+    <!--                                <i class="ti-headphone text-white"></i>-->
+    <!--                                <h6 class="text-white"><a class="text-white" href="tel:+62616616635">(061) 661 6635</a></h6>-->
+    <!--                                <p class="text-white">Setiap hari kerja</p>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                    <div class="container col-lg-8 offset-lg-2 text-center btnsyarat">-->
+    <!--                        <a href="http://daftaronline.methodist5.com" target="_blank" class="primary-btn mt-3">Pendaftaran Online</a>-->
+    <!--                        <a href="/daftar.html#syarat" class="primary-btn mt-3">Syarat Pendaftaran</a>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</div>-->
+    <!--================ End Registration Area =================-->
+    
+    <!--================ Start Feature Area =================-->
+    <section class="feature_area section_gap_top">
+        <div class="container">
+            
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
+                    <div class="main_title">
+                        <h2 class="mb-3 scname">Perguruan Kristen Methodist 5</h2>
+                        <p>
+                            "Takut akan Tuhan adalah permulaan pengetahuan"<br>(Amsal 1:7a)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <section class="feature_area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 col-12">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E4LMxac25KE" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+    
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_feature">
+                        <div class="icon"><span class="flaticon-student"></span></div>
+                        <div class="desc">
+                            <h4 class="mt-3 mb-2">Pendidikan Karakter</h4>
+                            <p>
+                                Mengutamakan pendidikan berbasis karakter
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_feature">
+                        <div class="icon"><span class="flaticon-book"></span></div>
+                        <div class="desc">
+                            <h4 class="mt-3 mb-2">Pembelajaran Menarik</h4>
+                            <p>
+                                Pembelajaran yang menarik dan kontekstual
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_feature">
+                        <div class="icon"><span class="flaticon-earth"></span></div>
+                        <div class="desc">
+                            <h4 class="mt-3 mb-2">Terakreditasi</h4>
+                            <p>
+                                Telah diakui dan terpercaya selama lebih dari <b>50</b> tahun
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ End Feature Area =================-->
+
+    <!--================ Start Fasilitas Area =================-->
+    <div class="popular_courses darkbg section_gap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
+                    <div class="main_title">
+                        <h2 class="mb-3 text-white">Fasilitas</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- single course -->
+                <div class="col-lg-12">
+                    <div class="owl-carousel active_course" data-items="3">
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/lab ipa.JPG">
+                                    <img class="img-fluid" src="img/fasilitas/lab ipa.JPG" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Laboratorium IPA</span>
+                            </div>
+                        </div>
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/labkom.jpg">
+                                    <img class="img-fluid" src="img/fasilitas/labkom.jpg" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Laboratorium Komputer</span>
+                            </div>
+                        </div>
+
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/multimedia.jpg">
+                                    <img class="img-fluid" src="img/fasilitas/multimedia.jpg" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Multimedia/Hall</span>
+                            </div>
+                        </div>
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/perpustakaan.JPG">
+                                    <img class="img-fluid" src="img/fasilitas/perpustakaan.JPG" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Perpustakaan</span>
+                            </div>
+                        </div>
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/playground.JPG">
+                                    <img class="img-fluid" src="img/fasilitas/playground.JPG" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Playground</span>
+                            </div>
+                        </div>
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/taman.jpg">
+                                    <img class="img-fluid" src="img/fasilitas/taman.jpg" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Taman</span>
+                            </div>
+                        </div>
+
+                        <div class="single_course fasilitas">
+                            <div class="course_head">
+                                <a href="img/fasilitas/kantin.jpg">
+                                    <img class="img-fluid" src="img/fasilitas/kantin.jpg" alt="" />
+                                </a>
+                            </div>
+                            <div class="course_content fasilitas text-right">
+                                <span class="tag mb-4 d-inline-block fasilitas_size">Kantin</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================ End Fasilitas Area =================-->
+
+    <!--================ Start Popular Courses Area =================-->
+    <div class="popular_courses section_gap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
+                    <div class="main_title">
+                        <h2 class="mb-3">Prestasi
+                        </h2>
+                        <p>Ukir prestasi, meraih bintang</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- single course -->
+                <div class="col-lg-12">
+                    <div class="owl-carousel active_course">
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#1</span>
+                                <span class="tag mb-4 d-inline-block">Olahraga</span>
+                                <h4 class="mb-3">
+                                    <a href="#">Juara 1 & 3 Basket Methosa Cup</a>
+                                </h4>
+                                <p>
+                                    Meraih juara 1 dan 3 kompetisi basket Methosa Cup
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2019</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#1</span>
+                                <span class="tag mb-4 d-inline-block">Olahraga</span>
+                                <h4 class="mb-3">
+                                    <a href="#">Juara 1 Basket WR Supratman II Cup</a>
+                                </h4>
+                                <p>
+                                    Meraih peringkat 1 kompetisi WR Supratman II Cup
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2019</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#2</span>
+                                <span class="tag mb-4 d-inline-block">Olahraga</span>
+                                <h4 class="mb-3">
+                                    <a href="#">Juara 2 Basket Cahaya Cup</a>
+                                </h4>
+                                <p>
+                                    Meraih peringkat 2 kompetisi basket Cahaya Cup
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2018</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#1</span>
+                                <span class="tag mb-4 d-inline-block">Sains</span>
+                                <h4 class="mb-3">
+                                    <a href="#">Juara 1 dan 3 Science Practical Test Methodist Charles Wesley Tingkat
+                    SMA</a>
+                                </h4>
+                                <p>
+                                    Meraih peringkat 1 dan 3 perlombaan sains praktis Methodist Charles Wesley Tingkat SMA
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2017</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#1</span>
+                                <span class="tag mb-4 d-inline-block">Sains</span>
+                                <h4 class="mb-3">
+                                    <a href="#">Juara 2 Science Practical Test Methodist Charles Wesley Tingkat SMP</a>
+                                </h4>
+                                <p>
+                                    Meraih peringkat 2 perlombaan sains praktis Methodist Charles Wesley Tingkat SMP
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2017</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="img/elements/trophy.png" alt="" />
+                            </div>
+                            <div class="course_content">
+                                <span class="price">#1</span>
+                                <span class="tag mb-4 d-inline-block">Seni</span>
+                                <h4 class="mb-3">
+                                    <a href="blog/prestasi//ebc2017/">Champion Wilmar EBC Short Drama 2017</a>
+                                </h4>
+                                <p>
+                                    Menjadi champion drama singkat pada Wilmar English Battle Championship
+                                </p>
+                                <div class="course_meta d-flex justify-content-lg-between align-items-lg-center flex-row-reverse flex-column mt-4">
+                                    <div class="mt-lg-0 mt-3 pr-2">
+                                        <p>2017</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================ End Popular Courses Area =================-->
+
+    
+
+    <!-- ================ Start Trainers Area =================-->
+    <!-- <section class="trainer_area section_gap_top">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-5">
+            <div class="main_title">
+              <h2 class="mb-3">Our Expert Trainers</h2>
+              <p>
+                Replenish man have thing gathering lights yielding shall you
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center d-flex align-items-center">
+          <div class="col-lg-3 col-md-6 col-sm-12 single-trainer">
+            <div class="thumb d-flex justify-content-sm-center">
+              <img class="img-fluid" src="img/trainer/t1.jpg" alt="" />
+            </div>
+            <div class="meta-text text-sm-center">
+              <h4>Mated Nithan</h4>
+              <p class="designation">Sr. web designer</p>
+              <div class="mb-4">
+                <p>
+                  If you are looking at blank cassettes on the web, you may be
+                  very confused at the.
+                </p>
+              </div>
+              <div class="align-items-center justify-content-center d-flex">
+                <a href="#"><i class="ti-facebook"></i></a>
+                <a href="#"><i class="ti-twitter"></i></a>
+                <a href="#"><i class="ti-linkedin"></i></a>
+                <a href="#"><i class="ti-pinterest"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-12 single-trainer">
+            <div class="thumb d-flex justify-content-sm-center">
+              <img class="img-fluid" src="img/trainer/t2.jpg" alt="" />
+            </div>
+            <div class="meta-text text-sm-center">
+              <h4>David Cameron</h4>
+              <p class="designation">Sr. web designer</p>
+              <div class="mb-4">
+                <p>
+                  If you are looking at blank cassettes on the web, you may be
+                  very confused at the.
+                </p>
+              </div>
+              <div class="align-items-center justify-content-center d-flex">
+                <a href="#"><i class="ti-facebook"></i></a>
+                <a href="#"><i class="ti-twitter"></i></a>
+                <a href="#"><i class="ti-linkedin"></i></a>
+                <a href="#"><i class="ti-pinterest"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-12 single-trainer">
+            <div class="thumb d-flex justify-content-sm-center">
+              <img class="img-fluid" src="img/trainer/t3.jpg" alt="" />
+            </div>
+            <div class="meta-text text-sm-center">
+              <h4>Jain Redmel</h4>
+              <p class="designation">Sr. Faculty Data Science</p>
+              <div class="mb-4">
+                <p>
+                  If you are looking at blank cassettes on the web, you may be
+                  very confused at the.
+                </p>
+              </div>
+              <div class="align-items-center justify-content-center d-flex">
+                <a href="#"><i class="ti-facebook"></i></a>
+                <a href="#"><i class="ti-twitter"></i></a>
+                <a href="#"><i class="ti-linkedin"></i></a>
+                <a href="#"><i class="ti-pinterest"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-sm-12 single-trainer">
+            <div class="thumb d-flex justify-content-sm-center">
+              <img class="img-fluid" src="img/trainer/t4.jpg" alt="" />
+            </div>
+            <div class="meta-text text-sm-center">
+              <h4>Nathan Macken</h4>
+              <p class="designation">Sr. web designer</p>
+              <div class="mb-4">
+                <p>
+                  If you are looking at blank cassettes on the web, you may be
+                  very confused at the.
+                </p>
+              </div>
+              <div class="align-items-center justify-content-center d-flex">
+                <a href="#"><i class="ti-facebook"></i></a>
+                <a href="#"><i class="ti-twitter"></i></a>
+                <a href="#"><i class="ti-linkedin"></i></a>
+                <a href="#"><i class="ti-pinterest"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+    <!--================ End Trainers Area ================= -->
+
+    <!--================ Start Events Area =================-->
+    <!-- <div class="events_area">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-5">
+            <div class="main_title">
+              <h2 class="mb-3 text-white">Kegiatan Mendatang</h2>
+              <p>
+                Replenish man have thing gathering lights yielding shall you
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6 col-md-6">
+            <div class="single_event position-relative">
+              <div class="event_thumb">
+                <img src="img/event/e1.jpg" alt="" />
+              </div>
+              <div class="event_details">
+                <div class="d-flex mb-4">
+                  <div class="date"><span>15</span> Jun</div>
+
+                  <div class="time-location">
+                    <p>
+                      <span class="ti-time mr-2"></span> 12:00 AM - 12:30 AM
+                    </p>
+                    <p>
+                      <span class="ti-location-pin mr-2"></span> Hilton Quebec
+                    </p>
+                  </div>
+                </div>
+                <p>
+                  One make creepeth man for so bearing their firmament won't
+                  fowl meat over seas great
+                </p>
+                <a href="#" class="primary-btn rounded-0 mt-3">View Details</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="single_event position-relative">
+              <div class="event_thumb">
+                <img src="img/event/e2.jpg" alt="" />
+              </div>
+              <div class="event_details">
+                <div class="d-flex mb-4">
+                  <div class="date"><span>15</span> Jun</div>
+
+                  <div class="time-location">
+                    <p>
+                      <span class="ti-time mr-2"></span> 12:00 AM - 12:30 AM
+                    </p>
+                    <p>
+                      <span class="ti-location-pin mr-2"></span> Hilton Quebec
+                    </p>
+                  </div>
+                </div>
+                <p>
+                  One make creepeth man for so bearing their firmament won't
+                  fowl meat over seas great
+                </p>
+                <a href="#" class="primary-btn rounded-0 mt-3">View Details</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-12">
+            <div class="text-center pt-lg-5 pt-3">
+              <a href="#" class="event-link">
+                View All Event <img src="img/next.png" alt="" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    ================ End Events Area ================= -->
+
+    <!--================ Start Testimonial Area =================-->
+    <div class="testimonial_area section_gap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-5">
+                    <div class="main_title">
+                        <h2 class="mb-3">Apa Kata Alumni?</h2>
+                        <p>
+                            dari berbagai angkatan, berbagai latar belakang, beragam cita-cita dan impian
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="testi_slider owl-carousel">
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <img src="img/testimonials/michael-jonathan.png" alt="" />
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4 class="pb-1 mb-0">Michael Jonathan,</h4>
+                                    <p class="mb-3">Angkatan 9,<br>Mobile Developer | Fintech Indonesia</p>
+                                </div>
+                            </div>
+                            <div class="col pt-3">
+                                <p>
+                                    Pengajaran tidak hanya semata tentang ilmu, tetapi juga tentang membangun karakteristik serta mendorong pertumbuhan rohani dengan sangat baik.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <img src="img/testimonials/federico-wijaya.png" alt="" />
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4 class="pb-1 mb-0">Federico Wijaya <span class="unbold">(Poliglot)</span>,</h4>
+                                    <p class="mb-3">Angkatan 12,<br>Conference Interprerer | Research Assistant</p>
+                                </div>
+                            </div>
+                            <div class="col pt-3">
+                                <p>
+                                    Without my beloved teachers, I am a pigeon; with their efforts, I am an eagle soaring high in the sky.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <img src="img/testimonials/felicia-austin.png" alt="" />
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4 class="pb-1 mb-0">Felicia Austin,</h4>
+                                    <p class="mb-2">Angkatan 13,<br>Mahasiswi | Universitas Riau<br>Jurusan Teknik Kimia<br>Prodi Teknologi Pulp dan Kertas</p>
+                                </div>
+                            </div>
+                            <div class="col pt-0">
+                                <p>
+                                    Di Methodist 5, saya menjadi tahu akan bakat dan passion saya. Lingkungan serta guru-guru sangat mendukung kita dalam mengembangkan bakat.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <img src="img/testimonials/william-andoko.png" alt="" />
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4 class="pb-1 mb-0">William Andoko,</h4>
+                                    <p class="mb-3">Angkatan 9</p>
+                                </div>
+                            </div>
+                            <div class="col pt-3">
+                                <p>
+                                    Bukan hanya ilmu pengetahuan, tetapi life skill juga saya dapatkan. Saya dulunya demam panggung, tetapi setelah menjadi ketua OSIS, saya belajar menjadi berani berbicara di depan umum.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================ End Testimonial Area =================-->
+
+    <!--================ Start footer Area  =================-->
+    <footer class="footer-area section_gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-6 single-footer-widget">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#">Informasi Pendaftaran</a></li>
+                        <li><a href="#">Profil Sekolah</a></li>
+                        <li><a href="#">Galeri</a></li>
+                        <li><a href="#">Ekstrakurikuler</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6 single-footer-widget">
+                    <h4>Berlangganan</h4>
+                    <p class="text-white">Ikuti perkembangan dan pengumuman seputar kegiatan dan informasi lainnya.</p>
+                    <div class="form-wrap" id="mc_embed_signup">
+                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
+                            <input class="form-control" name="EMAIL" placeholder="Alamat email anda" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Alamat email anda'" required="" type="email" />
+                            <button class="click-btn btn btn-default">
+                <span>subscribe</span>
+              </button>
+                            <div style="position: absolute; left: -5000px;">
+                                <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text" />
+                            </div>
+
+                            <div class="info"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="row footer-bottom d-flex justify-content-between">
+                <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">By Seiko Santana. <a href="https://wa.me/6285760041622">Need a website?</a></p>
+                <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </p>
+                <div class="col-lg-4 col-sm-12 footer-social d-none">
+                    <a href="#"><i class="ti-facebook"></i></a>
+                    <a href="#"><i class="ti-twitter"></i></a>
+                    <a href="#"><i class="ti-dribbble"></i></a>
+                    <a href="#"><i class="ti-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--================ End footer Area  =================-->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
+    <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="js/owl-carousel-thumb.min.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/mail-script.js"></script>
+    <!--gmaps Js-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+    <script src="js/gmaps.min.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="http://localhost:35729/livereload.js"></script>
+</body>
+
+</html>
